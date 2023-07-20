@@ -30,7 +30,7 @@
   },
   "require": {
     "php": "^8.2",
-    "livewire/livewire": "^2.0",
+    "livewire/livewire": "^3.0@beta",
     "spatie/laravel-package-tools": "^1.15"
   },
   "autoload": {
